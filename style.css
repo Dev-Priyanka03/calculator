@@ -1,0 +1,37 @@
+main{
+  background-color:rgb(49, 48, 48);
+  width: 320px;
+  margin-left: auto;
+  margin-right:auto ;
+  margin-top: 100px;
+}
+#type-box{
+  margin-top: 3px;
+  margin-left: 3px;
+  width: 310px;
+  height: 100px;
+  font-size: 25px;
+  border: none;
+
+}
+#type-box:focus{
+  outline: none;
+}
+td{
+  padding: 30px;
+}
+td:hover {
+  background-color: rgb(29, 29, 29);
+}
+.keypad{
+  background: none;
+  border: none;
+  color:white;
+  font-size: 27px;
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+}
+
+
+  
